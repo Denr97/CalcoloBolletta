@@ -8,5 +8,5 @@ https://docs.google.com/spreadsheets/d/1SWnGImcqglpQ0a8FjMQSjbvGMvglA1Y_k6oVXCl-
 APP
 ![image](https://github.com/user-attachments/assets/3bd78b29-17bd-4fad-b5c1-a7e0a46fecbb)
 
-Leggi Readme per i link
+Leggi LINK per aprire l'app o il foglio di calcolo.
 
